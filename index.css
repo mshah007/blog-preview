@@ -135,7 +135,9 @@ p {
   text-align: center;
   font-size: 1.2rem;
   margin-left: 1.2rem;
+  margin-top: 1.2rem;
   color: hsl(0, 0%, 7%);
+  font-weight: 900;
 }
 .avatar-section {
   display: flex;
