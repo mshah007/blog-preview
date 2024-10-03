@@ -117,8 +117,10 @@ img {
   display: inline;
 }
 .headline {
+  text-decoration: none;
   margin: 1rem 0;
   color: hsl(0, 0%, 7%);
+  font-size: 1.5rem;
 }
 .headline:hover {
   color: hsl(47, 88%, 63%);
